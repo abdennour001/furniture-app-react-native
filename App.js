@@ -4,7 +4,7 @@ import { createStackNavigator } from "@react-navigation/stack";
 import { NavigationContainer, DefaultTheme } from "@react-navigation/native";
 
 // import screens
-import { Home, ItemDetail } from "../screens/";
+import { Home, ItemDetail } from "./screens/";
 
 const theme = {
     ...DefaultTheme,
